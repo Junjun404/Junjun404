@@ -1,4 +1,6 @@
 ## Hi there 👋
+A new release!
+Come to see my first blog at https://yijunhuang212.github.io/blog/landingonplanetb612/!
 
 <!--
 **YijunHuang212/YijunHuang212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
