@@ -1,6 +1,11 @@
-## Hi there 👋
+<!-- Banner -->
+<div align="center">
+
+# Hi, I'm Yijun Huang 👋
 A new release!
 Come to see my first blog at https://junjun404.github.io/blog/landing-on-b612/
+
+- 📫 How to reach me:
 
 <!--
 **YijunHuang212/YijunHuang212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +17,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
